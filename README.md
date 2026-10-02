@@ -1,4 +1,4 @@
-# website
+# Portfolio
 
 Personal portfolio site for Joshua Miller. Plain HTML and CSS, no build step.
 
