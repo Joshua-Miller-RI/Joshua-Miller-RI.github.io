@@ -2,7 +2,7 @@
 
 Personal portfolio site for Joshua Miller. Plain HTML and CSS, no build step.
 
-Live at: https://joshua-miller-ri.github.io/website/
+Live at: [https://joshua-miller-ri.github.io/website/](https://joshua-miller-ri.github.io/Portfolio/)
 
 ## Files
 
